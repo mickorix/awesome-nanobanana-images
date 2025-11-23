@@ -14,7 +14,7 @@
 
 > [!NOTE]
 > Nano-Banana kullanılarak oluşturulan ve 150 bini aşkın yüksek kaliteli örnek içeren ilk veri kümesi Nano-consistent-150k’yı sunuyoruz. Bu veri kümesi, çeşitli ve karmaşık düzenleme senaryolarında insan kimliğinin tutarlılığını koruyacak şekilde özgün olarak tasarlanmıştır. Öne çıkan özelliği olağanüstü kimlik tutarlılığıdır: Tek bir portre için, farklı görev ve yönergeler boyunca 35’ten fazla farklı düzenleme çıktısı sağlanır. Tutarlı insan kimliklerini dayanak (ankor) alarak, aynı birey etrafında birden çok düzenleme görevi, yönerge ve modaliteyi kesintisiz biçimde birbirine bağlayan iç içe (interleaved) verilerin oluşturulmasına olanak tanır.
-<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
+<a href='https://mickorix.github.io/awesome-nanobanana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
 <a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
 
 ## 🍌 Giriş
@@ -2303,4 +2303,4 @@ Harika çalışmalarını paylaştıkları için aşağıdaki kullanıcılara te
 
 Topladığımız vakalar, olası tüm uygulama senaryolarını kapsayamaz. Başka ilginç keşifleriniz varsa 🔍, daha fazla yaratıcılık sergilemek için bizimle iletişime geçmenizi bekliyoruz 📧!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PicoTrex/Awesome-Nano-Banana-images&type=Date)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mickorix/awesome-nanobanana-images&type=Date)](https://www.star-history.com/#mickorix/awesome-nanobanana-images&Date)
