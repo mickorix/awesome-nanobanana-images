@@ -63,25 +63,25 @@
   - [例 19: 數學題推理（by @Gorden Sun）](#例-19-數學題推理by-gorden-sun)
   - [例 20: 舊照片上色（by @GeminiApp）](#例-20-舊照片上色by-geminiapp)
   - [例 21: OOTD穿搭（by @302.AI）](#例-21-ootd穿搭by-302ai)
-  - [例 22: 人物换衣（by @skirano）](#例-22-人物换衣by-skirano)
-  - [例 23: 多视图结果生成（by @Error\_HTTP\_404）](#例-23-多视图结果生成by-error_http_404)
-  - [例 24: 电影分镜（by @GeminiApp）](#例-24-电影分镜by-geminiapp)
-  - [例 25: 人物姿势修改（by @arrakis\_ai）](#例-25-人物姿势修改by-arrakis_ai)
-  - [例 26: 线稿图生成图像（by @ZHO\_ZHO\_ZHO）](#例-26-线稿图生成图像by-zho_zho_zho)
-  - [例 27: 为图像添加水印（by @AiMachete）](#例-27-为图像添加水印by-aimachete)
-  - [例 28: 知识推理生成图像（by @icreatelife）](#例-28-知识推理生成图像by-icreatelife)
-  - [例 29: 红笔批注（by @AiMachete）](#例-29-红笔批注by-aimachete)
+  - [例 22: 人物換衣（by @skirano）](#例-22-人物換衣by-skirano)
+  - [例 23: 多視圖結果生成（by @Error\_HTTP\_404）](#例-23-多視圖結果生成by-error_http_404)
+  - [例 24: 電影分鏡（by @GeminiApp）](#例-24-電影分鏡by-geminiapp)
+  - [例 25: 人物姿勢修改（by @arrakis\_ai）](#例-25-人物姿勢修改by-arrakis_ai)
+  - [例 26: 線稿圖生成圖像（by @ZHO\_ZHO\_ZHO）](#例-26-線稿圖生成圖像by-zho_zho_zho)
+  - [例 27: 為圖像添加水印（by @AiMachete）](#例-27-為圖像添加水印by-aimachete)
+  - [例 28: 知識推理生成圖像（by @icreatelife）](#例-28-知識推理生成圖像by-icreatelife)
+  - [例 29: 紅筆批注（by @AiMachete）](#例-29-紅筆批注by-aimachete)
   - [例 30: 爆炸的食物（by @icreatelife）](#例-30-爆炸的食物by-icreatelife)
-  - [例 31: 制作漫画书（by @icreatelife）](#例-31-制作漫画书by-icreatelife)
-  - [例 32: 动作人偶（by @icreatelife）](#例-32-动作人偶by-icreatelife)
-  - [例 33: 地图生成等距建筑（by @demishassabis）](#例-33-地图生成等距建筑by-demishassabis)
-  - [例 34: 参考图控制人物表情（by @ZHO\_ZHO\_ZHO）](#例-34-参考图控制人物表情by-zho_zho_zho)
-  - [例 35: 插画绘画过程四格（by @ZHO\_ZHO\_ZHO）](#例-35-插画绘画过程四格by-zho_zho_zho)
-  - [例 36: 虚拟试妆（by @ZHO\_ZHO\_ZHO）](#例-36-虚拟试妆by-zho_zho_zho)
-  - [例 37: 妆面分析（by @ZHO\_ZHO\_ZHO）](#例-37-妆面分析by-zho_zho_zho)
-  - [例 38: Google地图视角下的中土世界（by @TechHallo）](#例-38-google地图视角下的中土世界by-techhallo)
-  - [例 39: 印刷插画生成（by @Umesh）](#例-39-印刷插画生成by-umesh)
-  - [例 40: 超多人物姿势生成（by @tapehead\_Lab）](#例-40-超多人物姿势生成by-tapehead_lab)
+  - [例 31: 製作漫畫書（by @icreatelife）](#例-31-製作漫畫書by-icreatelife)
+  - [例 32: 動作人偶（by @icreatelife）](#例-32-動作人偶by-icreatelife)
+  - [例 33: 地圖生成等距建築（by @demishassabis）](#例-33-地圖生成等距建築by-demishassabis)
+  - [例 34: 參考圖控制人物表情（by @ZHO\_ZHO\_ZHO）](#例-34-參考圖控制人物表情by-zho_zho_zho)
+  - [例 35: 插畫繪畫過程四格（by @ZHO\_ZHO\_ZHO）](#例-35-插畫繪畫過程四格by-zho_zho_zho)
+  - [例 36: 虛擬試妝（by @ZHO\_ZHO\_ZHO）](#例-36-虛擬試妝by-zho_zho_zho)
+  - [例 37: 妝面分析（by @ZHO\_ZHO\_ZHO）](#例-37-妝面分析by-zho_zho_zho)
+  - [例 38: Google地圖視角下的中土世界（by @TechHallo）](#例-38-google地圖視角下的中土世界by-techhallo)
+  - [例 39: 印刷插畫生成（by @Umesh）](#例-39-印刷插畫生成by-umesh)
+  - [例 40: 超多人物姿勢生成（by @tapehead\_Lab）](#例-40-超多人物姿勢生成by-tapehead_lab)
   - [例 41: 物品包装生成（by @ZHO\_ZHO\_ZHO）](#例-41-物品包装生成by-zho_zho_zho)
   - [例 42: 叠加滤镜/材质（by @ZHO\_ZHO\_ZHO）](#例-42-叠加滤镜材质by-zho_zho_zho)
   - [例 43: 控制人物脸型（by @ZHO\_ZHO\_ZHO）](#例-43-控制人物脸型by-zho_zho_zho)
@@ -516,319 +516,319 @@
 <!-- 例 21: OOTD穿搭（by @302.AI） -->
 ### 例 21: [OOTD穿搭](https://medium.com/%40302.AI/google-nano-banana-vs-qwen-gpt-flux-topping-the-image-editing-leaderboard-96038b01bdcd)（by [@302.AI](https://medium.com/@302.AI)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case21/input.jpg" width="300" alt="输入图片"> | <img src="images/case21/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case21/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case21/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物图片和服装图片
+**輸入:** 需上傳一張人物圖片和服裝圖片
 
-**提示词:**
+**提示詞:**
 
 ```
-选择图1中的人，让他们穿上图2中的所有服装和配饰。在户外拍摄一系列写实的OOTD风格照片，使用自然光线，时尚的街头风格，清晰的全身镜头。保持图1中人物的身份和姿势，但以连贯时尚的方式展示图2中的完整服装和配饰
+選擇圖1中的人，讓他們穿上圖2中的所有服裝和配飾。在戶外拍攝一系列寫實的OOTD風格照片，使用自然光線，時尚的街頭風格，清晰的全身鏡頭。保持圖1中人物的身份和姿勢，但以連貫時尚的方式展示圖2中的完整服裝和配飾
 ```
 
-<!-- 例 22: 人物换衣（by @skirano） -->
-### 例 22: [人物换衣](https://x.com/skirano/status/1960343968320737397)（by [@skirano](https://x.com/skirano)）
+<!-- 例 22: 人物換衣（by @skirano） -->
+### 例 22: [人物換衣](https://x.com/skirano/status/1960343968320737397)（by [@skirano](https://x.com/skirano)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case22/input.jpg" width="300" alt="输入图片"> | <img src="images/case22/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case22/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case22/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传人物图像和衣服图像
+**輸入:** 需上傳人物圖像和衣服圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将输入图像中人物的服装替换为参考图像中显示的目标服装。保持人物的姿势、面部表情、背景和整体真实感不变。让新服装看起来自然、合身，并与光线和阴影保持一致。不要改变人物的身份或环境——只改变衣服
+將輸入圖像中人物的服裝替換為參考圖像中顯示的目標服裝。保持人物的姿勢、面部表情、背景和整體真實感不變。讓新服裝看起來自然、合身，並與光線和陰影保持一致。不要改變人物的身份或環境——只改變衣服
 ```
 
-<!-- 例 23: 多视图结果生成（by @Error_HTTP_404） -->
-### 例 23: [多视图结果生成](https://x.com/Error_HTTP_404/status/1960405116701303294)（by [@Error_HTTP_404](https://x.com/Error_HTTP_404)）
+<!-- 例 23: 多視圖結果生成（by @Error_HTTP_404） -->
+### 例 23: [多視圖結果生成](https://x.com/Error_HTTP_404/status/1960405116701303294)（by [@Error_HTTP_404](https://x.com/Error_HTTP_404)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case23/input.jpg" width="300" alt="输入图片"> | <img src="images/case23/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case23/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case23/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-在白色背景上生成前、后、左、右、上、下视图。均匀分布。一致的主体。等距透视等效
+在白色背景上生成前、後、左、右、上、下視圖。均勻分布。一致的主體。等距透視等效
 ```
 
-<!-- 例 24: 电影分镜（by @GeminiApp） -->
-### 例 24: 电影分镜（by [@GeminiApp](@GeminiApp)）
+<!-- 例 24: 電影分鏡（by @GeminiApp） -->
+### 例 24: 電影分鏡（by [@GeminiApp](@GeminiApp)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case24/input.jpg" width="300" alt="输入图片"> | <img src="images/case24/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case24/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case24/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-用这两个角色创作一个令人上瘾的12部分故事，包含12张图像，讲述经典的黑色电影侦探故事。故事关于他们寻找线索并最终发现的失落的宝藏。整个故事充满刺激，有情感的高潮和低谷，以精彩的转折和高潮结尾。不要在图像中包含任何文字或文本，纯粹通过图像本身讲述故事
+用這兩個角色創作一個令人上癮的12部分故事，包含12張圖像，講述經典的黑色電影偵探故事。故事關於他們尋找線索並最終發現的失落的寶藏。整個故事充滿刺激，有情感的高潮和低谷，以精彩的轉折和高潮結尾。不要在圖像中包含任何文字或文本，純粹通過圖像本身講述故事
 ```
 
-<!-- 例 25: 人物姿势修改（by @arrakis_ai） -->
-### 例 25: [人物姿势修改](https://x.com/arrakis_ai/status/1955901155726516652)（by [@arrakis_ai](https://x.com/arrakis_ai)）
+<!-- 例 25: 人物姿勢修改（by @arrakis_ai） -->
+### 例 25: [人物姿勢修改](https://x.com/arrakis_ai/status/1955901155726516652)（by [@arrakis_ai](https://x.com/arrakis_ai)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case25/input.jpg" width="300" alt="输入图片"> | <img src="images/case25/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case25/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case25/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-让图片中的人直视前方
+讓圖片中的人直視前方
 ```
 
-<!-- 例 26: 线稿图生成图像（by @ZHO_ZHO_ZHO） -->
-### 例 26: [线稿图生成图像](https://x.com/ZHO_ZHO_ZHO/status/1961024423596872184)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 26: 線稿圖生成圖像（by @ZHO_ZHO_ZHO） -->
+### 例 26: [線稿圖生成圖像](https://x.com/ZHO_ZHO_ZHO/status/1961024423596872184)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case26/input.jpg" width="300" alt="输入图片"> | <img src="images/case26/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case26/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case26/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传线稿图和参考图像
+**輸入:** 需上傳線稿圖和參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将图一人物换成图二姿势，专业摄影棚拍摄
+將圖一人物換成圖二姿勢，專業攝影棚拍攝
 ```
 
-<!-- 例 27: 为图像添加水印（by @AiMachete） -->
-### 例 27: [为图像添加水印](https://x.com/AiMachete/status/1963038793705128219)（by [@AiMachete](https://x.com/AiMachete)）
+<!-- 例 27: 為圖像添加水印（by @AiMachete） -->
+### 例 27: [為圖像添加水印](https://x.com/AiMachete/status/1963038793705128219)（by [@AiMachete](https://x.com/AiMachete)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case27/input.jpg" width="300" alt="输入图片"> | <img src="images/case27/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case27/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case27/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-在整个图片上反复覆盖“TRUMP”这个词。
+在整個圖片上反復覆蓋“TRUMP”這個詞。
 ```
 
-<!-- 例 28: 知识推理生成图像（by @icreatelife） -->
-### 例 28: [知识推理生成图像](https://x.com/icreatelife/status/1962998951948517428)（by [@icreatelife](https://x.com/icreatelife)）
+<!-- 例 28: 知識推理生成圖像（by @icreatelife） -->
+### 例 28: [知識推理生成圖像](https://x.com/icreatelife/status/1962998951948517428)（by [@icreatelife](https://x.com/icreatelife)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case28/output.jpg" width="300" alt="输出结果"> |
-| <img src="images/case28/output1.jpg" width="300" alt="输出结果"> |
+| <img src="images/case28/output.jpg" width="300" alt="輸出結果"> |
+| <img src="images/case28/output1.jpg" width="300" alt="輸出結果"> |
 
-**提示词:**
+**提示詞:**
 
 ```
-为我制作一张世界五座最高建筑的信息图 / 制作一张关于地球上最甜蜜事物的彩色信息图
+為我製作一張世界五座最高建築的信息圖 / 製作一張關於地球上最甜蜜事物的彩色信息圖
 ```
 
-<!-- 例 29: 红笔批注（by @AiMachete） -->
-### 例 29: [红笔批注](https://x.com/AiMachete/status/1962356993550643355)（by [@AiMachete](https://x.com/AiMachete)）
+<!-- 例 29: 紅筆批注（by @AiMachete） -->
+### 例 29: [紅筆批注](https://x.com/AiMachete/status/1962356993550643355)（by [@AiMachete](https://x.com/AiMachete)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case29/input.jpg" width="300" alt="输入图片"> | <img src="images/case29/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case29/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case29/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-分析这张图片。用红笔标出你可以改进的地方。
+分析這張圖片。用紅筆標出你可以改進的地方。
 ```
 
 <!-- 例 30: 爆炸的食物（by @icreatelife） -->
 ### 例 30: [爆炸的食物](https://x.com/icreatelife/status/1962724040205803773)（by [@icreatelife](https://x.com/icreatelife)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case30/output.jpg" width="300" alt="输出结果"> |
-| <img src="images/case30/output1.jpg" width="300" alt="输出结果"> |
+| <img src="images/case30/output.jpg" width="300" alt="輸出結果"> |
+| <img src="images/case30/output1.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-在具有戏剧性的现代场景中拍摄该产品，并伴随着爆炸性的向外动态排列，主要成分新鲜和原始在产品周围飞舞，表明其新鲜度和营养价值。促销广告镜头，没有文字，强调产品，以关键品牌颜色作为背景。
+在具有戲劇性的現代場景中拍攝該產品，並伴隨著爆炸性的向外動態排列，主要成分新鮮和原始在產品周圍飛舞，表明其新鮮度和營養價值。促銷廣告鏡頭，沒有文字，強調產品，以關鍵品牌顏色作為背景。
 ```
 
-<!-- 例 31: 制作漫画书（by @icreatelife） -->
-### 例 31: [制作漫画书](https://x.com/icreatelife/status/1961977580849873169)（by [@icreatelife](https://x.com/icreatelife)）
+<!-- 例 31: 製作漫畫書（by @icreatelife） -->
+### 例 31: [製作漫畫書](https://x.com/icreatelife/status/1961977580849873169)（by [@icreatelife](https://x.com/icreatelife)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case31/input.jpg" width="300" alt="输入图片"> | <img src="images/case31/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case31/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case31/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-基于上传的图像，制作漫画书条幅，添加文字，写一个引人入胜的故事。我想要一本奇幻漫画书。
+基於上傳的圖像，製作漫畫書條幅，添加文字，寫一個引人入勝的故事。我想要一本奇幻漫畫書。
 ```
 
-<!-- 例 32: 动作人偶（by @icreatelife） -->
-### 例 32: [动作人偶](https://x.com/icreatelife/status/1961653618529935720)（by [@icreatelife](https://x.com/icreatelife)）
+<!-- 例 32: 動作人偶（by @icreatelife） -->
+### 例 32: [動作人偶](https://x.com/icreatelife/status/1961653618529935720)（by [@icreatelife](https://x.com/icreatelife)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case32/input.jpg" width="300" alt="输入图片"> | <img src="images/case32/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case32/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case32/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传参考图像
+**輸入:** 需上傳參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-制作一个写着 [“AI Evangelist - Kris”] 的动作人偶，并包含 [咖啡、乌龟、笔记本电脑、手机和耳机] 。
+製作一個寫著 [“AI Evangelist - Kris”] 的動作人偶，並包含 [咖啡、烏龜、筆記本電腦、手機和耳機] 。
 ```
 > [!NOTE]
-> **将 [方括号] 中的文字改为需要添加的物品**
+> **將 [方括號] 中的文字改為需要添加的物品**
 
 
-<!-- 例 33: 地图生成等距建筑（by @demishassabis） -->
-### 例 33: [地图生成等距建筑](https://x.com/demishassabis/status/1961077016830083103)（by [@demishassabis](https://x.com/demishassabis)）
+<!-- 例 33: 地圖生成等距建築（by @demishassabis） -->
+### 例 33: [地圖生成等距建築](https://x.com/demishassabis/status/1961077016830083103)（by [@demishassabis](https://x.com/demishassabis)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case33/input.jpg" width="300" alt="输入图片"> | <img src="images/case33/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case33/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case33/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传地图的参考图像
+**輸入:** 需上傳地圖的參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-以这个位置为地标，将其设为等距图像（仅建筑物），采用游戏主题公园的风格
+以這個位置為地標，將其設為等距圖像（僅建築物），採用遊戲主題公園的風格
 ```
 
-<!-- 例 34: 参考图控制人物表情（by @ZHO_ZHO_ZHO） -->
-### 例 34: [参考图控制人物表情](https://x.com/ZHO_ZHO_ZHO/status/1963156830458085674)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 34: 參考圖控制人物表情（by @ZHO_ZHO_ZHO） -->
+### 例 34: [參考圖控制人物表情](https://x.com/ZHO_ZHO_ZHO/status/1963156830458085674)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
-| <img src="images/case34/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case34/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物参考图和一张表情参考图
+**輸入:** 需上傳一張人物參考圖和一張表情參考圖
 
-**提示词:**
+**提示詞:**
 
 ```
-图一人物参考/换成图二人物的表情
+圖一人物參考/換成圖二人物的表情
 ```
 
-<!-- 例 35: 插画绘画过程四格（by @ZHO_ZHO_ZHO） -->
-### 例 35: [插画绘画过程四格](https://x.com/ZHO_ZHO_ZHO/status/1961772524611768452)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 35: 插畫繪畫過程四格（by @ZHO_ZHO_ZHO） -->
+### 例 35: [插畫繪畫過程四格](https://x.com/ZHO_ZHO_ZHO/status/1961772524611768452)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
-| <img src="images/case35/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case35/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物参考图像
+**輸入:** 需上傳一張人物參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字
+為人物生成繪畫過程四宮格，第一步：線稿，第二步平鋪顏色，第三步：增加陰影，第四步：細化成型。不要文字
 ```
 
-<!-- 例 36: 虚拟试妆（by @ZHO_ZHO_ZHO） -->
-### 例 36: [虚拟试妆](https://x.com/ZHO_ZHO_ZHO/status/1962778069242126824)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 36: 虛擬試妝（by @ZHO_ZHO_ZHO） -->
+### 例 36: [虛擬試妝](https://x.com/ZHO_ZHO_ZHO/status/1962778069242126824)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
-| <img src="images/case36/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case36/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物参考图像和一张妆造参考图片
+**輸入:** 需上傳一張人物參考圖像和一張妝造參考圖片
 
-**提示词:**
+**提示詞:**
 
 ```
-为图一人物化上图二的妆，还保持图一的姿势
+為圖一人物化上圖二的妝，還保持圖一的姿勢
 ```
 
-<!-- 例 37: 妆面分析（by @ZHO_ZHO_ZHO） -->
-### 例 37: [妆面分析](https://x.com/ZHO_ZHO_ZHO/status/1962784384693739621)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 37: 妝面分析（by @ZHO_ZHO_ZHO） -->
+### 例 37: [妝面分析](https://x.com/ZHO_ZHO_ZHO/status/1962784384693739621)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case37/input.jpg" width="300" alt="输入图片"> | <img src="images/case37/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case37/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case37/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物参考图像
+**輸入:** 需上傳一張人物參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-分析这张图片。用红笔标出可以改进的地方
+分析這張圖片。用紅筆標出可以改進的地方
 Analyze this image. Use red pen to denote where you can improve
 ```
 
-<!-- 例 38: Google地图视角下的中土世界（by @TechHallo） -->
-### 例 38: [Google地图视角下的中土世界](https://x.com/techhalla/status/1962292272227102941)（by [@TechHallo](https://x.com/techhalla)）
+<!-- 例 38: Google地圖視角下的中土世界（by @TechHallo） -->
+### 例 38: [Google地圖視角下的中土世界](https://x.com/techhalla/status/1962292272227102941)（by [@TechHallo](https://x.com/techhalla)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case38/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case38/output.jpg" width="300" alt="輸出結果"> |
 
-**提示词:**
+**提示詞:**
 
 ```
-行车记录仪谷歌街景拍摄 | [霍比屯街道] | [霍比特人进行园艺和抽烟斗等日常活动] | [晴天]
+行車記錄儀谷歌街景拍攝 | [霍比屯街道] | [霍比特人進行園藝和抽煙鬥等日常活動] | [晴天]
 ```
 
 > [!NOTE]
-> **将 [方括号] 中的文字改为需要的地区和天气**
+> **將 [方括號] 中的文字改為需要的地區和天氣**
 
-<!-- 例 39: 印刷插画生成 (@Umesh） -->
-### 例 39: [印刷插画生成](https://x.com/umesh_ai/status/1961110485543371145)（by [@Umesh](https://x.com/umesh_ai)）
+<!-- 例 39: 印刷插畫生成 (@Umesh） -->
+### 例 39: [印刷插畫生成](https://x.com/umesh_ai/status/1961110485543371145)（by [@Umesh](https://x.com/umesh_ai)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case39/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case39/output.jpg" width="300" alt="輸出結果"> |
 
-**提示词:**
+**提示詞:**
 
 ```
-仅使用短语 [“riding a bike”] 中的字母，创作一幅极简主义的黑白印刷插图，描绘骑自行车的场景。每个字母的形状和位置都应富有创意，以构成骑车人、自行车和动感。设计应简洁、极简，完全由修改后的 [“riding a bike”] 字母组成，不添加任何额外的形状或线条。字母应流畅或弯曲，以模仿场景的自然形态，同时保持清晰易读。
+僅使用短語 [“riding a bike”] 中的字母，創作一幅極簡主義的黑白印刷插圖，描繪騎自行車的場景。每個字母的形狀和位置都應富有創意，以構成騎車人、自行車和動感。設計應簡潔、極簡，完全由修改後的 [“riding a bike”] 字母組成，不添加任何額外的形狀或線條。字母應流暢或彎曲，以模仿場景的自然形態，同時保持清晰易讀。
 ```
 
 > [!NOTE]
-> **将 [方括号] 中的文字改为需要的文字**
+> **將 [方括號] 中的文字改為需要的文字**
 
-<!-- 例 40: 超多人物姿势生成（by @tapehead_Lab） -->
-### 例 40: [超多人物姿势生成](https://x.com/tapehead_Lab/status/1960878455299694639)（by [@tapehead_Lab](https://x.com/tapehead_Lab)）
+<!-- 例 40: 超多人物姿勢生成（by @tapehead_Lab） -->
+### 例 40: [超多人物姿勢生成](https://x.com/tapehead_Lab/status/1960878455299694639)（by [@tapehead_Lab](https://x.com/tapehead_Lab)）
 
 | 示例 |
 |:---:|
-| <img src="images/case40/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case40/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物参考图像
+**輸入:** 需上傳一張人物參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-请为这幅插图创建一个姿势表，摆出各种姿势
+請為這幅插圖創建一個姿勢表，擺出各種姿勢
 ```
 
 <!-- 例 41: 物品包装生成（by @ZHO_ZHO_ZHO） -->
