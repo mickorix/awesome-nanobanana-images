@@ -12,11 +12,6 @@
 
 </div>
 
-> [!NOTE]
-> Nano-Banana kullanılarak oluşturulan ve 150 bini aşkın yüksek kaliteli örnek içeren ilk veri kümesi Nano-consistent-150k’yı sunuyoruz. Bu veri kümesi, çeşitli ve karmaşık düzenleme senaryolarında insan kimliğinin tutarlılığını koruyacak şekilde özgün olarak tasarlanmıştır. Öne çıkan özelliği olağanüstü kimlik tutarlılığıdır: Tek bir portre için, farklı görev ve yönergeler boyunca 35’ten fazla farklı düzenleme çıktısı sağlanır. Tutarlı insan kimliklerini dayanak (ankor) alarak, aynı birey etrafında birden çok düzenleme görevi, yönerge ve modaliteyi kesintisiz biçimde birbirine bağlayan iç içe (interleaved) verilerin oluşturulmasına olanak tanır.
-<a href='https://mickorix.github.io/awesome-nanobanana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
-
 ## 🍌 Giriş
 
 Nano-banana derlenmiş resim galerisine hoş geldiniz! 🤗 
