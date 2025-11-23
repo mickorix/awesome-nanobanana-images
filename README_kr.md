@@ -14,7 +14,7 @@
 
 > [!NOTE]
 > 우리는 Nano-Banana로 구축된, 15만 개 이상의 고품질 샘플을 포함하는 최초의 데이터셋 Nano-consistent-150k를 제안합니다. 이 데이터셋은 다양한 복잡한 편집 시나리오에서도 사람의 정체성 일관성을 유지하도록 고유하게 설계되었습니다. 핵심 특징은 뛰어난 정체성 일관성입니다. 하나의 인물 사진에 대해 다양한 태스크와 지시문 전반에 걸쳐 35개 이상의 서로 다른 편집 결과를 제공합니다. 동일한 인물 정체성을 앵커로 삼아, 같은 개인을 중심으로 여러 편집 태스크·지시·모달리티를 매끄럽게 연결하는 인터리브드(interleaved) 데이터를 구축할 수 있습니다.
-<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
+<a href='https://mickorix.github.io/awesome-nanobanana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
 <a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
 
 ## 🍌 소개
@@ -2309,4 +2309,4 @@ LED 스크린에 애니메이션과 캐릭터 영상을 투사한다.
 
 저희 측에서 수집한 예시들에서 모든 활용 사례를 다루기는 어렵습니다. 다른 흥미로운 발견을 하시게 된다면 🔍, 더 많은 창의적인 작품을 소개할 수 있도록 연락 주세요 📧!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PicoTrex/Awesome-Nano-Banana-images&type=Date)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mickorix/awesome-nanobanana-images&type=Date)](https://www.star-history.com/#mickorix/awesome-nanobanana-images&Date)
