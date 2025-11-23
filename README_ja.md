@@ -12,11 +12,6 @@
 
 </div>
 
-> [!NOTE]
-> 私たちは Nano-consistent-150k を提案します。これは Nano-Banana を用いて構築された、15万件を超える高品質サンプルから成る初のデータセットであり、多様かつ複雑な編集シナリオにおいて人物アイデンティティの一貫性を維持するよう独自に設計されています。大きな特徴は、その卓越したアイデンティティ一貫性です。単一のポートレートに対し、さまざまなタスクと指示にわたり 35 以上の異なる編集出力を提供します。一貫した人物をアンカーとすることで、同一個人を中心に複数の編集タスク・指示・モダリティをシームレスに結び付けるインタリーブド（interleaved）データの構築が可能になります。
-<a href='https://mickorix.github.io/awesome-nanobanana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
-
 ## 🍌 はじめに
 
 Nano-bananaの厳選画像ギャラリーへようこそ！🤗 
