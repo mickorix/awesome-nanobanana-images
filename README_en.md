@@ -12,11 +12,6 @@
 
 </div>
 
-> [!NOTE]
-> We present Nano-consistent-150k — the first dataset constructed using Nano-Banana that exceeds 150k high-quality samples, uniquely designed to preserve consistent human identity across diverse and complex editing scenarios. A key feature is its remarkable identity consistency: for a single portrait, more than 35 distinct editing outputs are provided across diverse tasks and instructions. By anchoring on consistent human identities, the dataset enables the construction of interleaved data that seamlessly link multiple editing tasks, instructions, and modalities around the same individual.
-<a href='https://mickorix.github.io/awesome-nanobanana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
-
 ## 🍌 Introduction
 
 Welcome to the Nano-banana curated image gallery! 🤗 
