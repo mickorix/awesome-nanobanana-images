@@ -82,26 +82,26 @@
   - [例 38: Google地圖視角下的中土世界（by @TechHallo）](#例-38-google地圖視角下的中土世界by-techhallo)
   - [例 39: 印刷插畫生成（by @Umesh）](#例-39-印刷插畫生成by-umesh)
   - [例 40: 超多人物姿勢生成（by @tapehead\_Lab）](#例-40-超多人物姿勢生成by-tapehead_lab)
-  - [例 41: 物品包装生成（by @ZHO\_ZHO\_ZHO）](#例-41-物品包装生成by-zho_zho_zho)
-  - [例 42: 叠加滤镜/材质（by @ZHO\_ZHO\_ZHO）](#例-42-叠加滤镜材质by-zho_zho_zho)
-  - [例 43: 控制人物脸型（by @ZHO\_ZHO\_ZHO）](#例-43-控制人物脸型by-zho_zho_zho)
+  - [例 41: 物品包裝生成（by @ZHO\_ZHO\_ZHO）](#例-41-物品包裝生成by-zho_zho_zho)
+  - [例 42: 疊加濾鏡/材質（by @ZHO\_ZHO\_ZHO）](#例-42-疊加濾鏡材質by-zho_zho_zho)
+  - [例 43: 控制人物臉型（by @ZHO\_ZHO\_ZHO）](#例-43-控制人物臉型by-zho_zho_zho)
   - [例 44: 光影控制（by @ZHO\_ZHO\_ZHO）](#例-44-光影控制by-zho_zho_zho)
-  - [例 45: 乐高玩具小人（by @ZHO\_ZHO\_ZHO）](#例-45-乐高玩具小人by-zho_zho_zho)
-  - [例 46: 高达模型小人（by @ZHO\_ZHO\_ZHO）](#例-46-高达模型小人by-zho_zho_zho)
-  - [例 47: 硬件拆解图（by @AIimagined）](#例-47-硬件拆解图by-aiimagined)
-  - [例 48: 食物卡路里标注（by @icreatelife）](#例-48-食物卡路里标注by-icreatelife)
-  - [例 49: 提取信息并放置透明图层（by @nglprz）](#例-49-提取信息并放置透明图层by-nglprz)
-  - [例 50: 图像外扩修复（by @bwabbage）](#例-50-图像外扩修复by-bwabbage)
-  - [例 51: 古老地图生成古代场景（by @levelsio）](#例-51-古老地图生成古代场景by-levelsio)
-  - [例 52: 时尚服装拼贴画（by @tetumemo）](#例-52-时尚服装拼贴画by-tetumemo)
-  - [例 53: 精致可爱的产品照片（by @azed\_ai）](#例-53-精致可爱的产品照片by-azed_ai)
-  - [例 54: 动漫雕像放入现实（by @riddi0908）](#例-54-动漫雕像放入现实by-riddi0908)
-  - [例 55: 痛车制作（by @riddi0908）](#例-55-痛车制作by-riddi0908)
-  - [例 56: 漫画构图（by @namaedousiyoka）](#例-56-漫画构图by-namaedousiyoka)
-  - [例 57: 漫画风格转换（by @nobisiro\_2023）](#例-57-漫画风格转换by-nobisiro_2023)
-  - [例 58: 等距全息投影图（by @tetumemo）](#例-58-等距全息投影图by-tetumemo)
-  - [例 59: Minecraft 风格场景生成（by @tetumemo）](#例-59-minecraft-风格场景生成by-tetumemo)
-  - [例 60: 材质球赋予材质（by @ZHO\_ZHO\_ZHO）](#例-60-材质球赋予材质by-zho_zho_zho)
+  - [例 45: 樂高玩具小人（by @ZHO\_ZHO\_ZHO）](#例-45-樂高玩具小人by-zho_zho_zho)
+  - [例 46: 高達模型小人（by @ZHO\_ZHO\_ZHO）](#例-46-高達模型小人by-zho_zho_zho)
+  - [例 47: 硬件拆解圖（by @AIimagined）](#例-47-硬件拆解圖by-aiimagined)
+  - [例 48: 食物卡路里標注（by @icreatelife）](#例-48-食物卡路里標注by-icreatelife)
+  - [例 49: 提取信息並放置透明圖層（by @nglprz）](#例-49-提取信息並放置透明圖層by-nglprz)
+  - [例 50: 圖像外擴修復（by @bwabbage）](#例-50-圖像外擴修復by-bwabbage)
+  - [例 51: 古老地圖生成古代場景（by @levelsio）](#例-51-古老地圖生成古代場景by-levelsio)
+  - [例 52: 時尚服裝拼貼畫（by @tetumemo）](#例-52-時尚服裝拼貼畫by-tetumemo)
+  - [例 53: 精緻可愛的產品照片（by @azed\_ai）](#例-53-精緻可愛的產品照片by-azed_ai)
+  - [例 54: 動漫雕像放入現實（by @riddi0908）](#例-54-動漫雕像放入現實by-riddi0908)
+  - [例 55: 痛車製作（by @riddi0908）](#例-55-痛車製作by-riddi0908)
+  - [例 56: 漫畫構圖（by @namaedousiyoka）](#例-56-漫畫構圖by-namaedousiyoka)
+  - [例 57: 漫畫風格轉換（by @nobisiro\_2023）](#例-57-漫畫風格轉換by-nobisiro_2023)
+  - [例 58: 等距全息投影圖（by @tetumemo）](#例-58-等距全息投影圖by-tetumemo)
+  - [例 59: Minecraft 風格場景生成（by @tetumemo）](#例-59-minecraft-風格場景生成by-tetumemo)
+  - [例 60: 材質球賦予材質（by @ZHO\_ZHO\_ZHO）](#例-60-材質球賦予材質by-zho_zho_zho)
   - [例 61: 平面图3D渲染（by @op7418）](#例-61-平面图3d渲染by-op7418)
   - [例 62: 重置相机参数（by @hckinz）](#例-62-重置相机参数by-hckinz)
   - [例 63: 制作证件照（by @songguoxiansen）](#例-63-制作证件照by-songguoxiansen)
@@ -831,55 +831,55 @@ Analyze this image. Use red pen to denote where you can improve
 請為這幅插圖創建一個姿勢表，擺出各種姿勢
 ```
 
-<!-- 例 41: 物品包装生成（by @ZHO_ZHO_ZHO） -->
-### 例 41: [物品包装生成](https://x.com/ZHO_ZHO_ZHO/status/1962763864875167971)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 41: 物品包裝生成（by @ZHO_ZHO_ZHO） -->
+### 例 41: [物品包裝生成](https://x.com/ZHO_ZHO_ZHO/status/1962763864875167971)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
-| <img src="images/case41/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case41/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张物品参考图像和一张包装参考图片
+**輸入:** 需上傳一張物品參考圖像和一張包裝參考圖片
 
-**提示词:**
+**提示詞:**
 
 ```
-把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影
+把圖一貼在圖二易拉罐上，並放在極簡設計的佈景中，專業攝影
 ```
 
-<!-- 例 42: 叠加滤镜/材质（by @ZHO_ZHO_ZHO） -->
-### 例 42: [叠加滤镜/材质](https://x.com/ZHO_ZHO_ZHO/status/1962520937011855793)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 42: 疊加濾鏡/材質（by @ZHO_ZHO_ZHO） -->
+### 例 42: [疊加濾鏡/材質](https://x.com/ZHO_ZHO_ZHO/status/1962520937011855793)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
-| <img src="images/case42/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case42/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张参考图像和一张滤镜/材质参考图片
+**輸入:** 需上傳一張參考圖像和一張濾鏡/材質參考圖片
 
-**提示词:**
+**提示詞:**
 
 ```
-为图一照片叠加上图二 [玻璃] 的效果
+為圖一照片疊加上圖二 [玻璃] 的效果
 ```
 
 > [!NOTE]
-> **将 [方括号] 中的文字改为需要的滤镜/材质**
+> **將 [方括號] 中的文字改為需要的濾鏡/材質**
 
-<!-- 例 43: 控制人物脸型（by @ZHO_ZHO_ZHO） -->
-### 例 43: [控制人物脸型](https://x.com/ZHO_ZHO_ZHO/status/1961802767493939632)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 43: 控制人物臉型（by @ZHO_ZHO_ZHO） -->
+### 例 43: [控制人物臉型](https://x.com/ZHO_ZHO_ZHO/status/1961802767493939632)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
-| <img src="images/case43/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case43/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张参考图像和一张脸型参考图片
+**輸入:** 需上傳一張參考圖像和一張臉型參考圖片
 
-**提示词:**
+**提示詞:**
 
 ```
-图一人物按照图二的脸型设计为q版形象
+圖一人物按照圖二的臉型設計為q版形象
 ```
 
 <!-- 例 44: 光影控制（by @ZHO_ZHO_ZHO） -->
@@ -887,255 +887,255 @@ Analyze this image. Use red pen to denote where you can improve
 
 | 示例 |
 |:---:|
-| <img src="images/case44/case.jpg" width="300" alt="输出结果"> |
+| <img src="images/case44/case.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张参考图像和一张光影参考图片
+**輸入:** 需上傳一張參考圖像和一張光影參考圖片
 
-**提示词:**
+**提示詞:**
 
 ```
-图一人物变成图二光影，深色为暗
+圖一人物變成圖二光影，深色為暗
 ```
 
-<!-- 例 45: 乐高玩具小人（by @ZHO_ZHO_ZHO） -->
-### 例 45: [乐高玩具小人](https://x.com/ZHO_ZHO_ZHO/status/1961395526198595771)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 45: 樂高玩具小人（by @ZHO_ZHO_ZHO） -->
+### 例 45: [樂高玩具小人](https://x.com/ZHO_ZHO_ZHO/status/1961395526198595771)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case45/input.jpg" width="300" alt="输入图片"> | <img src="images/case45/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case45/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case45/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将照片中的人物转化为乐高小人包装盒的风格，以等距透视呈现。在包装盒上标注标题“ZHOGUE”。在盒内展示基于照片中人物的乐高小人，并配有他们必需的物品（如化妆品、包或其他物品）作为乐高配件。在盒子旁边，也展示实际乐高小人本身，未包装，以逼真且生动的方式渲染。
+將照片中的人物轉化為樂高小人包裝盒的風格，以等距透視呈現。在包裝盒上標注標題“ZHOGUE”。在盒內展示基於照片中人物的樂高小人，並配有他們必需的物品（如化妝品、包或其他物品）作為樂高配件。在盒子旁邊，也展示實際樂高小人本身，未包裝，以逼真且生動的方式渲染。
 ```
 
-<!-- 例 46: 高达模型小人（by @ZHO_ZHO_ZHO） -->
-### 例 46: [高达模型小人](https://x.com/ZHO_ZHO_ZHO/status/1961412823340265509)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 46: 高達模型小人（by @ZHO_ZHO_ZHO） -->
+### 例 46: [高達模型小人](https://x.com/ZHO_ZHO_ZHO/status/1961412823340265509)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case46/input.jpg" width="300" alt="输入图片"> | <img src="images/case46/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case46/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case46/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将照片中的人物转化为高达模型套件包装盒的风格，以等距透视呈现。在包装盒上标注标题“ZHOGUE”。在盒内展示照片中人物的高达风格机械人版本，并伴随其必需品（如化妆品、包袋或其他物品）重新设计为未来派机械配件。包装盒应类似真实的 Gunpla 盒子，包含技术插图、说明书风格细节和科幻字体。在盒子旁边，也展示实际的高达风格机械人本身，在包装外以逼真且栩栩如生的风格渲染，类似于官方 Bandai 宣传渲染图。
+將照片中的人物轉化為高達模型套件包裝盒的風格，以等距透視呈現。在包裝盒上標注標題“ZHOGUE”。在盒內展示照片中人物的高達風格機械人版本，並伴隨其必需品（如化妝品、包袋或其他物品）重新設計為未來派機械配件。包裝盒應類似真實的 Gunpla 盒子，包含技術插圖、說明書風格細節和科幻字體。在盒子旁邊，也展示實際的高達風格機械人本身，在包裝外以逼真且栩栩如生的風格渲染，類似於官方 Bandai 宣傳渲染圖。
 ```
 
-<!-- 例 47: 硬件拆解图（by @AIimagined） -->
-### 例 47: [硬件拆解图](https://x.com/AIimagined/status/1961431851245211958)（by [@AIimagined](https://x.com/AIimagined)）
+<!-- 例 47: 硬件拆解圖（by @AIimagined） -->
+### 例 47: [硬件拆解圖](https://x.com/AIimagined/status/1961431851245211958)（by [@AIimagined](https://x.com/AIimagined)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case47/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case47/output.jpg" width="300" alt="輸出結果"> |
 
-**提示词:**
+**提示詞:**
 
 ```
-数码单反相机的分解图，展示了其所有配件和内部组件，例如镜头、滤镜、内部组件、镜头、传感器、螺丝、按钮、取景器、外壳和电路板。保留了数码单反相机的红色装饰。
+數碼單反相機的分解圖，展示了其所有配件和內部組件，例如鏡頭、濾鏡、內部組件、鏡頭、傳感器、螺絲、按鈕、取景器、外殼和電路板。保留了數碼單反相機的紅色裝飾。
 ```
 
-<!-- 例 48: 食物卡路里标注（by @icreatelife） -->
-### 例 48: [食物卡路里标注](https://x.com/icreatelife/status/1963646757222715516)（by [@icreatelife](https://x.com/icreatelife)）
+<!-- 例 48: 食物卡路里標注（by @icreatelife） -->
+### 例 48: [食物卡路里標注](https://x.com/icreatelife/status/1963646757222715516)（by [@icreatelife](https://x.com/icreatelife)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case48/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case48/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张食物参考图像
+**輸入:** 需上傳一張食物參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-用食物名称、卡路里密度和近似卡路里来注释这顿饭
+用食物名稱、卡路里密度和近似卡路里來注釋這頓飯
 ```
 
-<!-- 例 49: 提取信息并放置透明图层（by @nglprz） -->
-### 例 49: [提取信息并放置透明图层](https://x.com/nglprz/status/1961494974555394068)（by [@nglprz](https://x.com/icreatelife)）
+<!-- 例 49: 提取信息並放置透明圖層（by @nglprz） -->
+### 例 49: [提取信息並放置透明圖層](https://x.com/nglprz/status/1961494974555394068)（by [@nglprz](https://x.com/icreatelife)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case49/input.jpg" width="300" alt="输入图片"> | <img src="images/case49/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case49/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case49/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-提取 [武士] 并放置透明背景
+提取 [武士] 並放置透明背景
 ```
 
 > [!NOTE]
-> **将 [方括号] 中的文字改为需要提取的对象**
+> **將 [方括號] 中的文字改為需要提取的對象**
 
-<!-- 例 50: 图像外扩修复（by @bwabbage） -->
-### 例 50: [图像外扩修复](https://x.com/bwabbage/status/1962903212937130450)（by [@bwabbage](https://x.com/bwabbage)）
+<!-- 例 50: 圖像外擴修復（by @bwabbage） -->
+### 例 50: [圖像外擴修復](https://x.com/bwabbage/status/1962903212937130450)（by [@bwabbage](https://x.com/bwabbage)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case50/input.jpg" width="300" alt="输入图片"> | <img src="images/case50/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case50/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case50/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张带有未知棋盘格信息的参考图像
+**輸入:** 需上傳一張帶有未知棋盤格信息的參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将图像的棋盘格部分进行修复，恢复为完整图像
+將圖像的棋盤格部分進行修復，恢復為完整圖像
 ```
 
-<!-- 例 51: 古老地图生成场景照片（by @levelsio） -->
-### 例 51: [古老地图生成古代场景](https://x.com/levelsio/status/1961595333034598487)（by [@levelsio](https://x.com/levelsio)）
+<!-- 例 51: 古老地圖生成場景照片（by @levelsio） -->
+### 例 51: [古老地圖生成古代場景](https://x.com/levelsio/status/1961595333034598487)（by [@levelsio](https://x.com/levelsio)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case51/input.jpg" width="300" alt="输入图片"> | <img src="images/case51/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case51/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case51/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张古代的参考图像
+**輸入:** 需上傳一張古代的參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-全彩照片。1660 年的新阿姆斯特丹。确保它是全现代色彩，就像它是今天拍摄的照片一样。
+全彩照片。1660 年的新阿姆斯特丹。確保它是全現代色彩，就像它是今天拍攝的照片一樣。
 ```
 
-<!-- 例 52: 时尚服装拼贴画（by @tetumemo） -->
-### 例 52: [时尚服装拼贴画](https://x.com/tetumemo/status/1962480699904282861)（by [@tetumemo](https://x.com/tetumemo)）
+<!-- 例 52: 時尚服裝拼貼畫（by @tetumemo） -->
+### 例 52: [時尚服裝拼貼畫](https://x.com/tetumemo/status/1962480699904282861)（by [@tetumemo](https://x.com/tetumemo)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case52/input.jpg" width="300" alt="输入图片"> | <img src="images/case52/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case52/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case52/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-时尚情绪板拼贴画。用模特所穿单品的剪纸图案围绕肖像画。用俏皮的马克笔字体添加手写笔记和草图，并用英文标注每件单品的品牌名称和来源。整体美感应该兼具创意和可爱。
+時尚情緒板拼貼畫。用模特所穿單品的剪紙圖案圍繞肖像畫。用俏皮的馬克筆字體添加手寫筆記和草圖，並用英文標注每件單品的品牌名稱和來源。整體美感應該兼具創意和可愛。
 ```
 
-<!-- 例 53: 精致可爱的产品照片（by @azed_ai） -->
-### 例 53: [精致可爱的产品照片](https://x.com/azed_ai/status/1962878353784066342)（by [@azed_ai](https://x.com/azed_ai)）
+<!-- 例 53: 精緻可愛的產品照片（by @azed_ai） -->
+### 例 53: [精緻可愛的產品照片](https://x.com/azed_ai/status/1962878353784066342)（by [@azed_ai](https://x.com/azed_ai)）
 
-| 输出 |
+| 輸出 |
 |:---:|
-| <img src="images/case53/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case53/output.jpg" width="300" alt="輸出結果"> |
 
-**提示词:**
+**提示詞:**
 
 ```
-一张高分辨率广告照片，一位男士用拇指和食指精心握着一件逼真的微型 [产品] 。背景干净清爽，摄影棚灯光，阴影柔和。手部造型精致，肤色自然，摆放位置凸显了产品的形状和细节。产品看起来极小，但细节丰富，品牌形象精准，位于画面中央，景深浅。模仿了奢侈品摄影和极简主义商业风格。
+一張高分辨率廣告照片，一位男士用拇指和食指精心握著一件逼真的微型 [產品] 。背景乾淨清爽，攝影棚燈光，陰影柔和。手部造型精緻，膚色自然，擺放位置凸顯了產品的形狀和細節。產品看起來極小，但細節豐富，品牌形象精准，位於畫面中央，景深淺。模仿了奢侈品攝影和極簡主義商業風格。
 ```
 
 > [!NOTE]
-> **将 [方括号] 中的文字改为需要展示的产品**
+> **將 [方括號] 中的文字改為需要展示的產品**
 
-<!-- 例 54: 动漫雕像放入现实（by @riddi0908） -->
-### 例 54: [动漫雕像放入现实](https://x.com/riddi0908/status/1963758463135412699)（by [@riddi0908](https://x.com/riddi0908)）
+<!-- 例 54: 動漫雕像放入現實（by @riddi0908） -->
+### 例 54: [動漫雕像放入現實](https://x.com/riddi0908/status/1963758463135412699)（by [@riddi0908](https://x.com/riddi0908)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case54/input.jpg" width="300" alt="输入图片"> | <img src="images/case54/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case54/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case54/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-一幅写实的摄影作品。这个人的巨型雕像被安放在东京市中心的广场上，人们仰望着它。
+一幅寫實的攝影作品。這個人的巨型雕像被安放在東京市中心的廣場上，人們仰望著它。
 ```
 
-<!-- 例 55: 痛车制作（by @riddi0908） -->
-### 例 55: [痛车制作](https://x.com/riddi0908/status/1963422536819249239)（by [@riddi0908](https://x.com/riddi0908)）
+<!-- 例 55: 痛車製作（by @riddi0908） -->
+### 例 55: [痛車製作](https://x.com/riddi0908/status/1963422536819249239)（by [@riddi0908](https://x.com/riddi0908)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case55/input.jpg" width="300" alt="输入图片"> | <img src="images/case55/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case55/input.jpg" width="300" alt="輸入圖片"> | <img src="images/case55/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-打造一张专业的跑车照片，以动漫风格的人物图案作为“痛车”（彩绘汽车）的设计，拍摄地点为著名的旅游景点或地标。汽车上醒目的大型动漫人物插图，构图简洁干净。人物图案应采用鲜艳的动漫艺术风格，色彩大胆，细节清晰。将车辆放置在自然光线充足的知名旅游景点或风景区，以展现车辆的运动外观和人物图案。运用专业的汽车摄影技巧，并结合适当的景深，突出“痛车”图案，同时融入风景背景，提升旅游吸引力，适合用于促销或爱好者营销材料。
+打造一張專業的跑車照片，以動漫風格的人物圖案作為“痛車”（彩繪汽車）的設計，拍攝地點為著名的旅遊景點或地標。汽車上醒目的大型動漫人物插圖，構圖簡潔乾淨。人物圖案應採用鮮艷的動漫藝術風格，色彩大膽，細節清晰。將車輛放置在自然光線充足的知名旅遊景點或風景區，以展現車輛的運動外觀和人物圖案。運用專業的汽車攝影技巧，並結合適當的景深，突出“痛車”圖案，同時融入風景背景，提升旅遊吸引力，適合用於促銷或愛好者營銷材料。
 ```
 
-<!-- 例 56: 漫画构图（by @namaedousiyoka） -->
-### 例 56: [漫画构图](https://x.com/namaedousiyoka/status/1962461786181161340)（by [@namaedousiyoka](https://x.com/namaedousiyoka)）
+<!-- 例 56: 漫畫構圖（by @namaedousiyoka） -->
+### 例 56: [漫畫構圖](https://x.com/namaedousiyoka/status/1962461786181161340)（by [@namaedousiyoka](https://x.com/namaedousiyoka)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case56/input.jpg" width="200" alt="输入图片"> <img src="images/case56/input2.jpg" width="200" alt="输入图片">| <img src="images/case56/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case56/input.jpg" width="200" alt="輸入圖片"> <img src="images/case56/input2.jpg" width="200" alt="輸入圖片">| <img src="images/case56/output.jpg" width="300" alt="輸出結果"> |
 
 
-**输入:** 需上传一张人物参考图像和场景构图参考图像
+**輸入:** 需上傳一張人物參考圖像和場景構圖參考圖像
 
-<!-- 例 57: 漫画风格转换（by @nobisiro_2023） -->
-### 例 57: [漫画风格转换](https://x.com/nobisiro_2023/status/1961231347986698371)（by [@nobisiro_2023](https://x.com/nobisiro_2023)）
+<!-- 例 57: 漫畫風格轉換（by @nobisiro_2023） -->
+### 例 57: [漫畫風格轉換](https://x.com/nobisiro_2023/status/1961231347986698371)（by [@nobisiro_2023](https://x.com/nobisiro_2023)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case57/input.jpg" width="300" alt="输入图片"> |<img src="images/case57/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case57/input.jpg" width="300" alt="輸入圖片"> |<img src="images/case57/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张参考图像
+**輸入:** 需上傳一張參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将输入的图片处理为黑白漫画风格线稿
+將輸入的圖片處理為黑白漫畫風格線稿
 ```
 
-<!-- 例 58: 等距全息投影图（by @tetumemo） -->
-### 例 58: [等距全息投影图](https://x.com/tetumemo/status/1964574226155000312)（by [@tetumemo](https://x.com/tetumemo)）
+<!-- 例 58: 等距全息投影圖（by @tetumemo） -->
+### 例 58: [等距全息投影圖](https://x.com/tetumemo/status/1964574226155000312)（by [@tetumemo](https://x.com/tetumemo)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case58/input.jpg" width="300" alt="输入图片"> |<img src="images/case58/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case58/input.jpg" width="300" alt="輸入圖片"> |<img src="images/case58/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张线稿参考图像
+**輸入:** 需上傳一張線稿參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-根据上传的图像，仅用线框进行全息化
+根據上傳的圖像，僅用線框進行全息化
 ```
 
-<!-- 例 59: Minecraft 风格场景生成（by @tetumemo） -->
-### 例 59: [Minecraft 风格场景生成](https://x.com/tetumemo/status/1964860047705743700)（by [@tetumemo](https://x.com/tetumemo)）
+<!-- 例 59: Minecraft 風格場景生成（by @tetumemo） -->
+### 例 59: [Minecraft 風格場景生成](https://x.com/tetumemo/status/1964860047705743700)（by [@tetumemo](https://x.com/tetumemo)）
 
-| 输入 | 输出 |
+| 輸入 | 輸出 |
 |:---:|:---:|
-| <img src="images/case59/input.jpg" width="300" alt="输入图片"> |<img src="images/case59/output.jpg" width="300" alt="输出结果"> |
+| <img src="images/case59/input.jpg" width="300" alt="輸入圖片"> |<img src="images/case59/output.jpg" width="300" alt="輸出結果"> |
 
-**输入:** 需上传一张google map参考图像
+**輸入:** 需上傳一張google map參考圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-使用此位置将​​地标制作成游戏 Minecraft 的 HD-2D 风格的等距图像（仅建筑物）。
+使用此位置將 地標製作成遊戲 Minecraft 的 HD-2D 風格的等距圖像（僅建築物）。
 ```
 
-<!-- 例 60: 材质球赋予材质（by @ZHO_ZHO_ZHO） -->
-### 例 60: [材质球赋予材质](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- 例 60: 材質球賦予材質（by @ZHO_ZHO_ZHO） -->
+### 例 60: [材質球賦予材質](https://x.com/ZHO_ZHO_ZHO/status/1964995347505352794)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | 示例 |
 |:---:|
 | <img src="images/case60/case.jpg" width="300" alt="示例"> |
 
 
-**输入:** 需上传一张参考图像和一张材质球图像
+**輸入:** 需上傳一張參考圖像和一張材質球圖像
 
-**提示词:**
+**提示詞:**
 
 ```
-将图2的材质用在图1的logo上，3d立体呈现，渲染c4d，纯色背景
+將圖2的材質用在圖1的logo上，3d立體呈現，渲染c4d，純色背景
 ```
 
 <!-- 例 61: 平面图3D渲染（by @op7418） -->
