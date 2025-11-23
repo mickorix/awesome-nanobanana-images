@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo.jpg"  alt="输入图片"> 
+<img src="images/logo.jpg" alt="輸入圖片"> 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Chinese](https://img.shields.io/badge/Chinese-Click_to_View-orange)](README.md)
@@ -42,7 +42,7 @@
 - [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [🖼️ 例子](#️-例子)
-  - [例 1: 插画变手办（by @ZHO\_ZHO\_ZHO）](#例-1-插画变手办by-zho_zho_zho)
+  - [例 1: 插畫變手辦（by @ZHO\_ZHO\_ZHO）](#例-1-插畫變手辦by-zho_zho_zho)
   - [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](#例-2-根据地图箭头生成地面视角图片by-tokumin)
   - [例 3: 真实世界的AR信息化（by @bilawalsidhu）](#例-3-真实世界的ar信息化by-bilawalsidhu)
   - [例 4: 分离出3D建筑/制作等距模型（by @Zieeett）](#例-4-分离出3d建筑制作等距模型by-zieeett)
