@@ -12,11 +12,6 @@
 
 </div>
 
-> [!NOTE]
-> 我們提出 Nano-consistent-150k——首個基於 Nano-Banana 構建、規模超過 150k 的高質量數據集，專為在多樣而複雜的編輯場景中保持人物身份一致性而設計。其一大特點是卓越的身份一致性：針對同一人像，我們在多種任務與指令下提供了 35 種以上不同的編輯結果。以一致的人物身份為錨點，該數據集使得圍繞同一主體在多種編輯任務、指令與模態之間無縫銜接的交錯（interleaved）數據構建成為可能。
-<a href='https://mickorix.github.io/awesome-nanobanana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
-
 ## 🍌 Introduction
 
 歡迎來到 Nano-banana 精選圖片庫！🤗 
@@ -30,7 +25,6 @@
 ## 📰 News
 
 - **2025年9月24日：** 5️⃣ 第五次倉庫更新
-- **2025年9月18日：** 我們發佈了 [**Nano-consistent-150k**](https://mickorix.github.io/awesome-nanobanana-images/) 數據集
 - **2025年9月16日：** 4️⃣ 第四次倉庫更新
 - **2025年9月9日：** 3️⃣ 第三次倉庫更新
 - **2025年9月3日：** 2️⃣ 第二次倉庫更新
