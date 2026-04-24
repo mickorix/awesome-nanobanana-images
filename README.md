@@ -37,7 +37,7 @@
 - [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [🖼️ 例子](#-例子)
-  - [例 0: image2 以連環圖方式推廣 mobile app（by @smartiosapp）](#例-0)
+  - [例 0: image2 以連環圖方式推廣 mobile app（by @smartiosapp）](#例-0-image2-以連環圖方式推廣-mobile-appby-smartiosapp)
   - [例 1: 插畫變手辦（by @ZHO\_ZHO\_ZHO）](#例-1-插畫變手辦by-zho_zho_zho)
   - [例 2: 根據地圖箭頭生成地面視角圖片（by @tokumin）](#例-2-根據地圖箭頭生成地面視角圖片by-tokumin)
   - [例 3: 真實世界的AR信息化（by @bilawalsidhu）](#例-3-真實世界的ar信息化by-bilawalsidhu)
@@ -153,11 +153,11 @@
 ## 🖼️ 例子
 
 <!-- 例 0: image2 以連環圖方式推廣 mobile app（by @smartiosapp） -->
-### 例 0: [image2 以連環圖方式推廣 mobile app]（by [@smartiosapp](https://x.com/smartiosapp)）
+### 例 0: [image2 以連環圖方式推廣 mobile app](https://x.com/smartiosapp/status/1578822313780224000)（by [@smartiosapp](https://x.com/smartiosapp)）
 
 | 輸出 |
 |:---:|
-| <img src="https://smartios.netlify.app/img/smartpassreadyAd.png" width="200" alt="輸出結果"> |
+| <img src="https://smartios.netlify.app/img/smartpassreadyAd.png" width="500" alt="輸出結果"> |
 
 **提示詞:**
 
