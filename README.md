@@ -155,9 +155,9 @@
 <!-- 例 0: image2 以連環圖方式推廣 mobile app（by @smartiosapp） -->
 ### 例 0: [image2 以連環圖方式推廣 mobile app](https://x.com/smartiosapp/status/1578822313780224000)（by [@smartiosapp](https://x.com/smartiosapp)）
 
-| 輸出 |
-|:---:|
-| <img src="https://smartios.netlify.app/img/smartpassreadyAd.png" width="500" alt="輸出結果"> |
+| 中文輸出 | 英文輸出 |
+|:---:|:---:|
+| <img src="https://smartios.netlify.app/img/smartpassreadyAdTW.png" width="500" alt="輸出TW結果"> | <img src="https://smartios.netlify.app/img/smartpassreadyAdEN.png" width="500" alt="輸出EN結果"> |
 
 **提示詞:**
 
