@@ -24,6 +24,7 @@
 
 ## 📰 News
 
+- **2026年4月24日：** 6️⃣ 第六次倉庫更新
 - **2025年9月24日：** 5️⃣ 第五次倉庫更新
 - **2025年9月16日：** 4️⃣ 第四次倉庫更新
 - **2025年9月9日：** 3️⃣ 第三次倉庫更新
@@ -36,6 +37,7 @@
 - [📰 News](#-news)
 - [📑 Menu](#-menu)
 - [🖼️ 例子](#-例子)
+  - [例 0: image2 以連環圖方式推廣 mobile app（by @smartiosapp）](#例-0)
   - [例 1: 插畫變手辦（by @ZHO\_ZHO\_ZHO）](#例-1-插畫變手辦by-zho_zho_zho)
   - [例 2: 根據地圖箭頭生成地面視角圖片（by @tokumin）](#例-2-根據地圖箭頭生成地面視角圖片by-tokumin)
   - [例 3: 真實世界的AR信息化（by @bilawalsidhu）](#例-3-真實世界的ar信息化by-bilawalsidhu)
@@ -149,6 +151,24 @@
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 🖼️ 例子
+
+<!-- 例 0: image2 以連環圖方式推廣 mobile app（by @smartiosapp） -->
+### 例 0: [image2 以連環圖方式推廣 mobile app]（by [@smartiosapp](https://x.com/smartiosapp)）
+
+| 輸出 |
+|:---:|
+| <img src="https://smartios.netlify.app/img/smartpassreadyAd.png" width="200" alt="輸出結果"> |
+
+**提示詞:**
+
+```
+我想為這個mobile app生成一廣告文案，以連環圖方式推廣。當中要有：
+- 吸引人嘅開場白
+- 突出痛點同解決方案
+- 展示 app 嘅獨特功能
+- 強烈嘅行動呼籲
+可否給我prompt給另一個AI生成圖像?
+```
 
 <!-- 例 1: 插畫變手辦（by @ZHO_ZHO_ZHO） -->
 ### 例 1: [插畫變手辦](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
